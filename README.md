@@ -37,8 +37,9 @@ Install the required dependencies using:
 
 ```bash
 pip install pygame neat-python
-
+```
 
 ## How to Run
 ```bash
 python flappy_game.py
+```
