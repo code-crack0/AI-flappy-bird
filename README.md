@@ -22,7 +22,8 @@ This project is a Python implementation of the classic *Flappy Bird* game, enhan
 
 ## Screenshots
 
-*(Add screenshots of the game and AI in action here.)*
+![image](https://github.com/user-attachments/assets/09b8c69b-f78f-4393-8b0e-b9d0f889efea)
+
 
 ---
 
